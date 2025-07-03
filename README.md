@@ -1,4 +1,4 @@
-# ✍️ Handwritten Digit Recognition with LeNet-5
+# ✍️🔢 Handwritten Digit Recognition with LeNet-5
 
 A computer vision project that recognizes handwritten digits (0-9) using a trained LeNet-5 CNN model on the MNIST dataset.
 

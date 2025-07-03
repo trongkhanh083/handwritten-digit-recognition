@@ -17,12 +17,12 @@ A computer vision project that recognizes handwritten digits (0-9) using a train
    cd handwritten-digit-recognition
    pip install -r requirements.txt
    ```
-## 🧠 Training the Model
+## 🧠 Training
 Run the full pipeline (data preparation → training → evaluation → prediction):
   ```bash
   ./scripts/run_training.sh
   ```
-## 🖼️ Web Demo
+## 🖼️ Demo
 To run the web interface locally:
   ```bash
   streamlit run streamlit_app.py

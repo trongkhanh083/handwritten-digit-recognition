@@ -6,3 +6,4 @@ pillow==10.4.0
 tensorflow==2.10.0
 streamlit==1.22.0
 protobuf==3.19.6
+streamlit-drawable-canvas==0.9.3

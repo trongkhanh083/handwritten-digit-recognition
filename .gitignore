@@ -1,0 +1,12 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+notebooks/
+
+# Data folders
+data/
+
+# Outputs prediction
+output/
+
+# Byte-compiled
+src/__pycache__/

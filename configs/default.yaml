@@ -1,0 +1,11 @@
+# configs/default.yaml
+
+# where to save and load your best model
+ckpt_path: checkpoints/mnist_lenet5.h5
+
+# training hyperparameters
+epochs: 20
+batch_size: 32
+
+# prediction settings
+num_img: 100
